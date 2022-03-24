@@ -13,7 +13,7 @@
 <!-- ABOUT THE PROJECT -->
 ### About The Project
 
-This app was developed as part of research at the agency Scholz & Volkmer. The subject of the project was to improve Wordpress modules library in such a way that it would be possible to build on its basis highly personalized websites. This module library was used to build websites for Deutsche Bahn such as: https://www.deutschebahn.com/en.
+This app was developed as part of research at the agency [Scholz & Volkmer](https://www.s-v.de/en/). The subject of the project was to improve Wordpress modules library in such a way that it would be possible to build on its basis highly personalized websites. This module library was used to build websites for Deutsche Bahn such as: https://www.deutschebahn.com/en.
 A model for improving the library is to be the highly personalized website: https://kusama-digital-guide.gropiusbau.de/de/.
 
 The Intersection Observer API introduces the possibility of screen controlled animations. The effect will be released when the user goes to the appropriate level of the page.
